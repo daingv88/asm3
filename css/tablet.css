@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  .nav3 {
+    display: none;
+  }
+  .certi-info {
+    flex-direction: column;
+  }
+  .project-border {
+    flex-wrap: wrap;
+  }
+}

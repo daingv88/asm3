@@ -1,0 +1,27 @@
+@media (max-width: 500px) {
+  .nav3 {
+    display: none;
+  }
+  .nav-bar {
+    height: auto;
+    display: block;
+  }
+  .nav {
+    display: block;
+    text-align: left;
+    padding: 10px;
+  }
+  .nav:first-child {
+    border-right: none;
+  }
+  .nav:last-child {
+    border-left: none;
+  }
+  .certi-info {
+    flex-direction: column;
+  }
+  .certi-1 {
+    border-right: none;
+    border-bottom: 2px solid #d6c08d;
+  }
+}
